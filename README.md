@@ -4,11 +4,11 @@ So what to people do? They go and plug a piezoelectric disks output directly int
 
 The reason why these devices often sound tinny is because the piezo sensor presents its signal through a series capacitance which is small, typically 15nF or less. When wired to a normal 50 kilohm line input this forms a high-pass filter, which eliminates the bass.
 
-It can be used for a reverb plate, listening to the insides of a engine,recording the sound of vibrating things. 
+One of these can be used for a reverb plate, listening to the insides of a engine,recording the sound of vibrating things. 
 
-Mechanics may even use it to discover trouble with bearings or other mechanisms not easily opened.
+Mechanics may even use one of these to discover trouble with bearings or other mechanisms not easily opened or stopped.
 
-Should also work nice with hydrophones. PZT-5H tubes is best for that. 
+They should also work nice with hydrophones. PZT-5H tubes is best for that. 
 
 In case of a hydrophone it's possible to have the hydrophone attached with a long cable and the amplifier/buffer circuit close to the piezoelectric elements. 
 It's of course extremely important that the circuit board and connections are absolutely waterproof. 
