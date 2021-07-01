@@ -13,6 +13,8 @@ They should also work nice with hydrophones. PZT-5H tubes is best for that.
 In case of a hydrophone it's possible to have the hydrophone attached with a long cable and the amplifier/buffer circuit close to the piezoelectric elements. 
 It's of course extremely important that the circuit board and connections are absolutely waterproof. 
 
+Commercial ones uses kerosene oil, so olive oil or sunflower oil is a great alternative as it will not pollute the environment if any leaks occurs.
+
 PCB board for 48 volts phantom power, with balanced input and output using op amps, gain set with two resistors:
 https://github.com/Supermagnum/double-gain
 
