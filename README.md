@@ -17,19 +17,23 @@ Commercial ones uses kerosene oil, so olive oil or sunflower oil is a great alte
 Plant based oils is actually possible to use in high voltage transformers:
 https://pdfs.semanticscholar.org/56b6/36870fac68b1bb6e343eee914002195b8a61.pdf
 
-PCB board for 48 volts phantom power, with balanced input and output using op amps, gain set with two resistors:
+All PCB boards and components are easy to solder, one just needs basic skills and knowledge of the right direction to put in the diodes.
+Some PCB boards has SMD components, but Aisler and other companies offers SMD assembly.
+
+PCB board for 48 volts phantom power, with balanced input and output using op amps, gain set with two resistors. It's the easiest to solder because it has no SMD components.:
 https://github.com/Supermagnum/double-gain
+A future version will include switches to set the gain.
 
 SMD version, gain set with switches:
 https://github.com/Supermagnum/balanced-smd
 
-PCB board using ultra low self noise components, balanced input and output, 48 volt phantom power:
+PCB board using ultra low self noise components, balanced input and output, 48 volt phantom power. It's a little harder to solder, because some of the solder points are quite close together::
 https://github.com/Supermagnum/piezo-balanced
 
-PCB board for 9V battery, mono audio out and single input:
+PCB board for 9V battery, mono audio out and single input. Easy to solder.:
 https://github.com/Supermagnum/piezo-9v
 
-48 volt phantom power supply with mono headphone output:
+48 volt phantom power supply with mono headphone output. Has one SMD component::
 https://github.com/Supermagnum/48power
 
 Made with: http://www.kicad.org/
