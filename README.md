@@ -18,6 +18,9 @@ Commercial ones uses kerosene oil, so olive oil or sunflower oil is a great alte
 PCB board for 48 volts phantom power, with balanced input and output using op amps, gain set with two resistors:
 https://github.com/Supermagnum/double-gain
 
+SMD version, gain set with switches:
+https://github.com/Supermagnum/balanced-smd
+
 PCB board using ultra low self noise components, balanced input and output, 48 volt phantom power:
 https://github.com/Supermagnum/piezo-balanced
 
