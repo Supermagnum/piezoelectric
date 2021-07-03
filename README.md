@@ -14,6 +14,8 @@ In case of a hydrophone it's possible to have the hydrophone attached with a lon
 It's of course extremely important that the circuit board and connections are absolutely waterproof. 
 
 Commercial ones uses kerosene oil, so olive oil or sunflower oil is a great alternative as it will not pollute the environment if any leaks occurs.
+Plant based oils is actually possible to use in high voltage transformers:
+https://pdfs.semanticscholar.org/56b6/36870fac68b1bb6e343eee914002195b8a61.pdf
 
 PCB board for 48 volts phantom power, with balanced input and output using op amps, gain set with two resistors:
 https://github.com/Supermagnum/double-gain
