@@ -22,7 +22,9 @@ Some PCB boards has SMD components, but Aisler and other companies offers SMD as
 
 PCB board for 48 volts phantom power, with balanced input and output using op amps, gain set with two resistors. It's the easiest to solder because it has no SMD components.:
 https://github.com/Supermagnum/double-gain
-A future version will include switches to set the gain.
+
+With switches to set the gain:
+https://github.com/Supermagnum/double-dip
 
 SMD version, gain set with switches:
 https://github.com/Supermagnum/balanced-smd
