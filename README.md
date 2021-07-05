@@ -38,6 +38,10 @@ https://github.com/Supermagnum/piezo-9v
 48 volt phantom power supply with mono headphone output. Has one SMD component::
 https://github.com/Supermagnum/48power
 
+All these links has links to Aisler, that offers PCB boards and components.
+Just register and import the 
+PCB and part list.
+
 Made with: http://www.kicad.org/
 
 KiCad uses an integrated environment for all of the stages of the design process: Schematic capture, PCB layout, Gerber file generation/visualization, and library editing.
