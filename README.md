@@ -7,6 +7,7 @@ The reason why these devices often sound tinny is because the piezo sensor prese
 One of these can be used for a reverb plate, listening to the insides of a engine,recording the sound of vibrating things. 
 
 Mechanics may even use one of these to discover trouble with bearings or other mechanisms not easily opened or stopped.
+That includes engine Knocking (also knock, detonation, spark knock, pinging or pinking) in spark ignition internal combustion engines. 
 
 They should also work nice with hydrophones. PZT-5H tubes is best for that. 
 
