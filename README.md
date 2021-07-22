@@ -19,6 +19,10 @@ Plant based oils is actually possible to use in high voltage transformers:
 https://pdfs.semanticscholar.org/56b6/36870fac68b1bb6e343eee914002195b8a61.pdf
 
 All PCB boards and components are easy to solder, one just needs basic skills and knowledge of the right direction to put in the diodes.
+There may be components that has lower self noise,better common mode noise rejection and so on,
+-but finding the best choice of components that handles from 0 to 48 volts DC power, uses maximum 10 milliamperes total, minimum self noise, has 8 pins DIP package is not a easy task!
+If you know components that is superior in regard to the intended voltage range, please fork the GitHub page and make the changes you want.
+
 Some PCB boards has SMD components, but Aisler and other companies offers SMD assembly.
 
 PCB board for 48 volts phantom power, with balanced input and output using op amps, gain set with two resistors. It's the easiest to solder because it has no SMD components:
