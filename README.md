@@ -17,11 +17,12 @@ It's of course extremely important that the circuit board and connections are ab
 Commercial ones uses kerosene oil, so olive oil or sunflower oil is a great alternative as it will not pollute the environment if any leaks occurs.
 Plant based oils is actually possible to use in high voltage transformers:
 https://pdfs.semanticscholar.org/56b6/36870fac68b1bb6e343eee914002195b8a61.pdf
+Silicone rubber, dielectric grease, epoxy is also useable if it is not harmful to the environment.
 
 All PCB boards and components are easy to solder, one just needs basic skills and knowledge of the right direction to put in the diodes.
 
 There may be components that has lower self noise,better common mode noise rejection and so on,
--but finding the best choice of components that handles from 0 to 48 volts DC power range, uses maximum 10 milliamperes total, minimum self noise, has 8 pins DIP package is not a easy task!
+-but finding the best choice of components that handles from 0 to 48 volts DC power range, uses maximum 10 milliamperes total, minimum self noise, has 8 or 14 pins DIP package is not a easy task!
 
 If you know components that is superior in regard to the intended voltage range, please fork the GitHub page and make the changes you want.
 
