@@ -23,7 +23,7 @@ All PCB boards and components are easy to solder, one just needs basic skills an
 
 There may be components that has lower self noise,better common mode noise rejection and so on,
 -but finding the best choice of components that handles from 0 to 48 volts DC power range, uses maximum 10 milliamperes total, minimum self noise, has 8 or 14 pins DIP package is not a easy task!
-I think that these are ok alternatives: LT6203,LT6234,LT6231,NJM2122D
+I think that these are ok alternatives: LT6234,LT6231,NJM2122D
 
 If you know components that is superior in regard to the intended voltage range, please fork the relevant GitHub page and make the changes you want.
 
