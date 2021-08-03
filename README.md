@@ -35,6 +35,7 @@ https://github.com/Supermagnum/double-gain
 
 SMD adapter with LT6234 :
 https://aisler.net/p/IXOHRKHO
+https://github.com/Supermagnum/smd-adapter
 
 With switches to set the gain:
 https://github.com/Supermagnum/double-dip
